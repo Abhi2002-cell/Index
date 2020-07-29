@@ -28,25 +28,25 @@
 
       <div data-brackets-id='16' class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul data-brackets-id='17' class="navbar-nav mr-auto">
-          <li data-brackets-id='18' class="nav-item active">
-            <a data-brackets-id='19' class="nav-link" href="#">Home <span data-brackets-id='20' class="sr-only">(current)</span></a>
-              
-          </li>
-         
+       
                <li data-brackets-id='21' class="nav-item active">
-            <a data-brackets-id='22' class="nav-link" href="#">About <span data-brackets-id='23' class="sr-only">(current)</span></a>
+            <a data-brackets-id='22' class="nav-link" href="#">Home <span data-brackets-id='23' class="sr-only">(current)</span></a>
               
           </li>
                 <li data-brackets-id='24' class="nav-item active">
-            <a data-brackets-id='25' class="nav-link" href="#">Contact<span data-brackets-id='26' class="sr-only">(current)</span></a>
+            <a data-brackets-id='25' class="nav-link" href="#">About<span data-brackets-id='26' class="sr-only">(current)</span></a>
               
           </li>
           <li data-brackets-id='27' class="nav-item active">
-            <a data-brackets-id='28' class="nav-link" href="#">Blog <span data-brackets-id='29' class="sr-only">(current)</span></a>
+            <a data-brackets-id='28' class="nav-link" href="#">Contact <span data-brackets-id='29' class="sr-only">(current)</span></a>
               
           </li>
                 <li data-brackets-id='30' class="nav-item active">
-            <a data-brackets-id='31' class="nav-link" href="#">Projects<span data-brackets-id='32' class="sr-only">(current)</span></a>
+            <a data-brackets-id='31' class="nav-link" href="#">Blog <span data-brackets-id='32' class="sr-only">(current)</span></a>
+              
+          </li>
+             <li data-brackets-id='30' class="nav-item active">
+            <a data-brackets-id='31' class="nav-link" href="#">Projects <span data-brackets-id='32' class="sr-only">(current)</span></a>
               
           </li>
           <!-- 
