@@ -1,13 +1,4 @@
-
-<!doctype html>
-<html data-brackets-id='1' lang="en">
-  <head data-brackets-id='2'>
-    <meta data-brackets-id='3' charset="utf-8">
-    <meta data-brackets-id='4' name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta data-brackets-id='5' name="description" content="">
-    <meta data-brackets-id='6' name="author" content="">
-
-      <title data-brackets-id='7'>Abhishek Sharma</title>
+ <title data-brackets-id='7'>Abhishek Sharma</title>
 
     <!-- Bootstrap CSS -->
     <link data-brackets-id='8' rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
