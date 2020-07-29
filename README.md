@@ -1,5 +1,4 @@
- <title data-brackets-id='7'>Abhishek Sharma</title>
-
+<head>
     <!-- Bootstrap CSS -->
     <link data-brackets-id='8' rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
 
